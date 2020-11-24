@@ -31,4 +31,10 @@
 ### Images
 ![logo](http://octodex.github.com/images/octdrey-catburn.jpg)   
 ![logo][2]   
-  [2]: http://octodex.github.com/images/octdrey-catburn.jpg   
+[2]: http://octodex.github.com/images/octdrey-catburn.jpg   
+
+### Code
+  
+  This is normal paragraph:   
+  This is a code block.   
+  end code block.
